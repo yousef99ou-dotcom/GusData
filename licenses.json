@@ -2,6 +2,7 @@
     "196.119.29.10": {
         "name": "Admin",
         "expiry": "2026-01-06",
-        "token": "3FFD614F6E"
+        "token": "3FFD614F6E",
+        "status": "active"
     }
 }
